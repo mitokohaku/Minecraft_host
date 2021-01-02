@@ -1,0 +1,8 @@
+payload:
+  - DOMAIN,launchermeta.mojang.com
+  - DOMAIN,launcher.mojang.com
+  - DOMAIN,authserver.mojang.com
+  - DOMAIN,libraries.minecraft.net
+  - DOMAIN,resources.download.minecraft.net
+  - DOMAIN-SUFFIX,minecraft.net
+  - DOMAIN-SUFFIX,mojang.com
